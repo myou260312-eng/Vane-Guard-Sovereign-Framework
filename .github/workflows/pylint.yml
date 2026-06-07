@@ -1,4 +1,5 @@
-name: amonRa_alphanova_momentum_v1 permissions: 
+name: pylint defaults:
+  
 
 on: [push]
 
