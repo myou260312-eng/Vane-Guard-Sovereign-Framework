@@ -1,4 +1,4 @@
-name: Pylint
+name: amonRa_alphanova_momentum_v1 permissions: 
 
 on: [push]
 
